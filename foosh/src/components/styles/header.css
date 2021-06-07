@@ -1,0 +1,69 @@
+/* CONTAINER */
+
+.header-container
+{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+
+.navbar-container
+{
+    font-family: 'Montserrat', sans-serif;
+
+    display: none !important;
+}
+
+
+
+
+
+/* LINKS */
+
+.header-name a
+{
+    color: black;
+    font: .8rem;
+    font-weight: 600;
+
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.header-name a:hover 
+{
+    color: grey;
+}
+
+.header-list
+{
+    margin: 0;
+
+    float: right;
+}
+
+.header-list li
+{
+    display: inline-block;
+
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.header-link a
+{
+    color: black;
+
+    font-size: .8rem;
+    font-weight: 600;
+
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.header-link a:hover
+{
+    color: grey;
+}
+
